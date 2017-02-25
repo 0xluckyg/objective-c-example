@@ -1,3 +1,3 @@
 # Hooc
-This is Hooc APP IOS code
-Do not share with others!!!
+Random chatting application on iOS.
+Built for programming / marketing practice.
